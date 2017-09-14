@@ -1,0 +1,458 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20170912184857
+Username: OM-PC\Om
+RunAs User: OM-PC\Om
+Machine: OM-PC (Microsoft Windows NT 10.0.14393.0)
+Host Application: C:\WINDOWS\System32\WindowsPowerShell\v1.0\Powershell.exe -NoExit -ExecutionPolicy Unrestricted -File C:\Users\Om\AppData\Local\GitHub\PoshGit_73b8bf9c588df6d17c193e270da0ed4cf890d868\profile.example.ps1
+Process ID: 9092
+PSVersion: 5.1.14393.1532
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.14393.1532
+BuildVersion: 10.0.14393.1532
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Users\Om\Documents\PowerShell_transcript.OM-PC.JwGFZilu.20170912184857.txt
+ [
+master
+ ≡
+ +24
+ ~0
+ -87
+ !
+]
+>
+~\Desktop\NDSU Summer 2017\Practice\JavaConceptsthruCodegit remote -v
+origin  https://github.com/omnekkanti/JavaLearning.git (fetch)
+origin  https://github.com/omnekkanti/JavaLearning.git (push)
+x       https://github.com/omnekkanti/x.git (fetch)
+x       https://github.com/omnekkanti/x.git (push)
+ [
+master
+ ≡
+ +24
+ ~0
+ -87
+ !
+]
+>
+~\Desktop\NDSU Summer 2017\Practice\JavaConceptsthruCodegit remote show origin
+* remote origin
+  Fetch URL: https://github.com/omnekkanti/JavaLearning.git
+  Push  URL: https://github.com/omnekkanti/JavaLearning.git
+  HEAD branch: master
+  Remote branch:
+    master tracked
+  Local branch configured for 'git pull':
+    master merges with remote master
+  Local ref configured for 'git push':
+    master pushes to master (up to date)
+ [
+master
+ ≡
+ +24
+ ~0
+ -87
+ !
+]
+>
+~\Desktop\NDSU Summer 2017\Practice\JavaConceptsthruCodegit push x master
+Everything up-to-date
+ [
+master
+ ≡
+ +24
+ ~0
+ -87
+ !
+]
+>
+~\Desktop\NDSU Summer 2017\Practice\JavaConceptsthruCodegit commit
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes not staged for commit:
+        deleted:    BufferedReader/BuffrReadr.java
+        deleted:    BufferedReader/bf2.java
+        deleted:    CmdArgs/CmdArgs.java
+        deleted:    CmdArgs1/CmdArgs1.java
+        deleted:    ConcatDemo/ConcatDemo.jad
+        deleted:    ConcatDemo/ConcatDemo.java
+        deleted:    ConcatDemo2/ConcatDemo2.jad
+        deleted:    ConcatDemo2/ConcatDemo2.java
+        deleted:    Conversions/Conversion2.java
+        deleted:    Conversions/Conversion3.java
+        deleted:    Conversions/Conversion4.java
+        deleted:    Conversions/Conversions.java
+        deleted:    Conversions/Documentation/Conversions.html
+        deleted:    Conversions/Documentation/allclasses-frame.html
+        deleted:    Conversions/Documentation/allclasses-noframe.html
+        deleted:    Conversions/Documentation/constant-values.html
+        deleted:    Conversions/Documentation/deprecated-list.html
+        deleted:    Conversions/Documentation/help-doc.html
+        deleted:    Conversions/Documentation/index-all.html
+        deleted:    Conversions/Documentation/index.html
+        deleted:    Conversions/Documentation/overview-tree.html
+        deleted:    Conversions/Documentation/package-frame.html
+        deleted:    Conversions/Documentation/package-list
+        deleted:    Conversions/Documentation/package-summary.html
+        deleted:    Conversions/Documentation/package-tree.html
+        deleted:    Conversions/Documentation/script.js
+        deleted:    Conversions/Documentation/stylesheet.css
+        deleted:    DataInputStream/DatInpStre.java
+        deleted:    DataInputStream/DatInpStre2.java
+        deleted:    DataTypes/Datatypes.java
+        deleted:    Datatypes2/Datatypes2.java
+        deleted:    Datatypes2/DocOmLearning/One.html
+        deleted:    Datatypes2/DocOmLearning/Test.html
+        deleted:    Datatypes2/DocOmLearning/allclasses-frame.html
+        deleted:    Datatypes2/DocOmLearning/allclasses-noframe.html
+        deleted:    Datatypes2/DocOmLearning/constant-values.html
+        deleted:    Datatypes2/DocOmLearning/deprecated-list.html
+        deleted:    Datatypes2/DocOmLearning/help-doc.html
+        deleted:    Datatypes2/DocOmLearning/index-all.html
+        deleted:    Datatypes2/DocOmLearning/index.html
+        deleted:    Datatypes2/DocOmLearning/overview-tree.html
+        deleted:    Datatypes2/DocOmLearning/package-frame.html
+        deleted:    Datatypes2/DocOmLearning/package-list
+        deleted:    Datatypes2/DocOmLearning/package-summary.html
+        deleted:    Datatypes2/DocOmLearning/package-tree.html
+        deleted:    Datatypes2/DocOmLearning/script.js
+        deleted:    Datatypes2/DocOmLearning/stylesheet.css
+        deleted:    Datatypes3/Datatypes3.java
+        deleted:    Datatypes4/Datatypes4.java
+        deleted:    FormattingMethods/FormatMethod.java
+        deleted:    InputStream/InputStream.java
+        deleted:    InputStream/Test2.java
+        deleted:    InputStream/Test3.java
+        deleted:    InputStream/Test4.java
+        deleted:    InputStream/Test5.java
+        deleted:    InputStream/Test6.java
+        deleted:    JavaDocExample/Comments.java
+        deleted:    JavaDocExample/Documentation/Comments.html
+        deleted:    JavaDocExample/Documentation/One.html
+        deleted:    JavaDocExample/Documentation/UtilClass.html
+        deleted:    JavaDocExample/Documentation/allclasses-frame.html
+        deleted:    JavaDocExample/Documentation/allclasses-noframe.html
+        deleted:    JavaDocExample/Documentation/constant-values.html
+        deleted:    JavaDocExample/Documentation/deprecated-list.html
+        deleted:    JavaDocExample/Documentation/help-doc.html
+        deleted:    JavaDocExample/Documentation/index-all.html
+        deleted:    JavaDocExample/Documentation/index.html
+        deleted:    JavaDocExample/Documentation/overview-tree.html
+        deleted:    JavaDocExample/Documentation/package-frame.html
+        deleted:    JavaDocExample/Documentation/package-list
+        deleted:    JavaDocExample/Documentation/package-summary.html
+        deleted:    JavaDocExample/Documentation/package-tree.html
+        deleted:    JavaDocExample/Documentation/script.js
+        deleted:    JavaDocExample/Documentation/stylesheet.css
+        deleted:    MultipleClasses/MultipleClasses.java
+        deleted:    Operators/Operator.java
+        deleted:    Operators/Operator2.java
+        deleted:    Program&readibility/Om1.java
+        deleted:    Scanner/ElseIfSwitch.java
+        deleted:    Scanner/ScannerDemo.java
+        deleted:    Scanner/ScannerDemo2.java
+        deleted:    Scanner/scanner3.java
+        deleted:    SingleClassMoreMains/ClassMulMainMethods.java
+        deleted:    Test/Test.java
+        deleted:    Util.Date/Datatypes.java
+        deleted:    Util.Date/UtilClass.java
+        deleted:    VarNamingConvention/VarConvention.java
+
+Untracked files:
+        1-CmdArgs/
+        10-DataTypes/
+        11-Util.Date/
+        12-Datatypes2/
+        13-Datatypes3/
+        14-Datatypes4/
+        15-Test/
+        16-VarNamingConvention/
+        17-Operators/
+        18-Conversions/
+        19-InputStream/
+        2-CmdArgs1/
+        20-DataInputStream/
+        21-BufferedReader/
+        22-Scanner/
+        23-ExplicitStatements/
+        3-ConcatDemo/
+        4-ConcatDemo2/
+        5-MultipleClasses/
+        6-Program&readibility/
+        7-SingleClassMoreMains/
+        8-FormattingMethods/
+        9-JavaDocExample/
+        LocalNonLocalNotes.pdf
+
+no changes added to commit
+ [
+master
+ ≡
+ +24
+ ~0
+ -87
+ !
+]
+>
+~\Desktop\NDSU Summer 2017\Practice\JavaConceptsthruCodegit add .
+
+ [
+master
+ ≡
+
+ +5
+ ~87
+ -0
+ ~
+]
+>
+~\Desktop\NDSU Summer 2017\Practice\JavaConceptsthruCodegit commit -m
+error: switch `m' requires a value
+usage: git commit [<options>] [--] <pathspec>...
+
+    -q, --quiet           suppress summary after successful commit
+    -v, --verbose         show diff in commit message template
+
+Commit message options
+    -F, --file <file>     read message from file
+    --author <author>     override author for commit
+    --date <date>         override date for commit
+    -m, --message <message>
+                          commit message
+    -c, --reedit-message <commit>
+                          reuse and edit message from specified commit
+    -C, --reuse-message <commit>
+                          reuse message from specified commit
+    --fixup <commit>      use autosquash formatted message to fixup specified commit
+    --squash <commit>     use autosquash formatted message to squash specified commit
+    --reset-author        the commit is authored by me now (used with -C/-c/--amend)
+    -s, --signoff         add Signed-off-by:
+    -t, --template <file>
+                          use specified template file
+    -e, --edit            force edit of commit
+    --cleanup <default>   how to strip spaces and #comments from message
+    --status              include status in commit message template
+    -S, --gpg-sign[=<key-id>]
+                          GPG sign commit
+
+Commit contents options
+    -a, --all             commit all changed files
+    -i, --include         add specified files to index for commit
+    --interactive         interactively add files
+    -p, --patch           interactively add changes
+    -o, --only            commit only specified files
+    -n, --no-verify       bypass pre-commit and commit-msg hooks
+    --dry-run             show what would be committed
+    --short               show status concisely
+    --branch              show branch information
+    --porcelain           machine-readable output
+    --long                show status in long format (default)
+    -z, --null            terminate entries with NUL
+    --amend               amend previous commit
+    --no-post-rewrite     bypass post-rewrite hook
+    -u, --untracked-files[=<mode>]
+                          show untracked files, optional modes: all, normal, no. (Default: all)
+ [
+master
+ ≡
+
+ +5
+ ~87
+ -0
+ ~
+]
+>
+~\Desktop\NDSU Summer 2017\Practice\JavaConceptsthruCodegit commit -m ""
+error: switch `m' requires a value
+usage: git commit [<options>] [--] <pathspec>...
+
+    -q, --quiet           suppress summary after successful commit
+    -v, --verbose         show diff in commit message template
+
+Commit message options
+    -F, --file <file>     read message from file
+    --author <author>     override author for commit
+    --date <date>         override date for commit
+    -m, --message <message>
+                          commit message
+    -c, --reedit-message <commit>
+                          reuse and edit message from specified commit
+    -C, --reuse-message <commit>
+                          reuse message from specified commit
+    --fixup <commit>      use autosquash formatted message to fixup specified commit
+    --squash <commit>     use autosquash formatted message to squash specified commit
+    --reset-author        the commit is authored by me now (used with -C/-c/--amend)
+    -s, --signoff         add Signed-off-by:
+    -t, --template <file>
+                          use specified template file
+    -e, --edit            force edit of commit
+    --cleanup <default>   how to strip spaces and #comments from message
+    --status              include status in commit message template
+    -S, --gpg-sign[=<key-id>]
+                          GPG sign commit
+
+Commit contents options
+    -a, --all             commit all changed files
+    -i, --include         add specified files to index for commit
+    --interactive         interactively add files
+    -p, --patch           interactively add changes
+    -o, --only            commit only specified files
+    -n, --no-verify       bypass pre-commit and commit-msg hooks
+    --dry-run             show what would be committed
+    --short               show status concisely
+    --branch              show branch information
+    --porcelain           machine-readable output
+    --long                show status in long format (default)
+    -z, --null            terminate entries with NUL
+    --amend               amend previous commit
+    --no-post-rewrite     bypass post-rewrite hook
+    -u, --untracked-files[=<mode>]
+                          show untracked files, optional modes: all, normal, no. (Default: all)
+ [
+master
+ ≡
+
+ +5
+ ~87
+ -0
+ ~
+]
+>
+ [
+master
+ ≡
+
+ +5
+ ~87
+ -0
+ ~
+]
+>
+~\Desktop\NDSU Summer 2017\Practice\JavaConceptsthruCodegit commit -m "om"
+[master 303b861] om
+ 92 files changed, 208 insertions(+), 9 deletions(-)
+ rename {CmdArgs => 1-CmdArgs}/CmdArgs.java (100%)
+ rename {DataTypes => 10-DataTypes}/Datatypes.java (100%)
+ rename {Util.Date => 11-Util.Date}/Datatypes.java (100%)
+ rename {Util.Date => 11-Util.Date}/UtilClass.java (100%)
+ rename {Datatypes2 => 12-Datatypes2}/Datatypes2.java (100%)
+ rename {Datatypes2 => 12-Datatypes2}/DocOmLearning/One.html (100%)
+ rename {Datatypes2 => 12-Datatypes2}/DocOmLearning/Test.html (100%)
+ rename {Datatypes2 => 12-Datatypes2}/DocOmLearning/allclasses-frame.html (100%)
+ rename {Datatypes2 => 12-Datatypes2}/DocOmLearning/allclasses-noframe.html (100%)
+ rename {Datatypes2 => 12-Datatypes2}/DocOmLearning/constant-values.html (100%)
+ rename {Datatypes2 => 12-Datatypes2}/DocOmLearning/deprecated-list.html (100%)
+ rename {Datatypes2 => 12-Datatypes2}/DocOmLearning/help-doc.html (100%)
+ rename {Datatypes2 => 12-Datatypes2}/DocOmLearning/index-all.html (100%)
+ rename {Datatypes2 => 12-Datatypes2}/DocOmLearning/index.html (100%)
+ rename {Datatypes2 => 12-Datatypes2}/DocOmLearning/overview-tree.html (100%)
+ rename {Datatypes2 => 12-Datatypes2}/DocOmLearning/package-frame.html (100%)
+ rename {Conversions/Documentation => 12-Datatypes2/DocOmLearning}/package-list (100%)
+ rename {Datatypes2 => 12-Datatypes2}/DocOmLearning/package-summary.html (100%)
+ rename {Datatypes2 => 12-Datatypes2}/DocOmLearning/package-tree.html (100%)
+ rename {Conversions/Documentation => 12-Datatypes2/DocOmLearning}/script.js (100%)
+ rename {Conversions/Documentation => 12-Datatypes2/DocOmLearning}/stylesheet.css (100%)
+ rename {Datatypes3 => 13-Datatypes3}/Datatypes3.java (100%)
+ rename {Datatypes4 => 14-Datatypes4}/Datatypes4.java (100%)
+ rename {Test => 15-Test}/Test.java (91%)
+ rename {VarNamingConvention => 16-VarNamingConvention}/VarConvention.java (100%)
+ rename {Operators => 17-Operators}/Operator.java (100%)
+ rename {Operators => 17-Operators}/Operator2.java (100%)
+ rename {Conversions => 18-Conversions}/Conversion2.java (100%)
+ rename {Conversions => 18-Conversions}/Conversion3.java (100%)
+ rename {Conversions => 18-Conversions}/Conversion4.java (100%)
+ rename {Conversions => 18-Conversions}/Conversions.java (100%)
+ rename {Conversions => 18-Conversions}/Documentation/Conversions.html (100%)
+ rename {Conversions => 18-Conversions}/Documentation/allclasses-frame.html (100%)
+ rename {Conversions => 18-Conversions}/Documentation/allclasses-noframe.html (100%)
+ rename {Conversions => 18-Conversions}/Documentation/constant-values.html (100%)
+ rename {Conversions => 18-Conversions}/Documentation/deprecated-list.html (100%)
+ rename {Conversions => 18-Conversions}/Documentation/help-doc.html (100%)
+ rename {Conversions => 18-Conversions}/Documentation/index-all.html (100%)
+ rename {Conversions => 18-Conversions}/Documentation/index.html (100%)
+ rename {Conversions => 18-Conversions}/Documentation/overview-tree.html (100%)
+ rename {Conversions => 18-Conversions}/Documentation/package-frame.html (100%)
+ rename {Datatypes2/DocOmLearning => 18-Conversions/Documentation}/package-list (100%)
+ rename {Conversions => 18-Conversions}/Documentation/package-summary.html (100%)
+ rename {Conversions => 18-Conversions}/Documentation/package-tree.html (100%)
+ rename {Datatypes2/DocOmLearning => 18-Conversions/Documentation}/script.js (100%)
+ rename {Datatypes2/DocOmLearning => 18-Conversions/Documentation}/stylesheet.css (100%)
+ rename {InputStream => 19-InputStream}/InputStream.java (100%)
+ rename {InputStream => 19-InputStream}/Test2.java (100%)
+ rename {InputStream => 19-InputStream}/Test3.java (100%)
+ rename {InputStream => 19-InputStream}/Test4.java (100%)
+ rename {InputStream => 19-InputStream}/Test5.java (100%)
+ rename {InputStream => 19-InputStream}/Test6.java (100%)
+ rename {CmdArgs1 => 2-CmdArgs1}/CmdArgs1.java (100%)
+ rename {DataInputStream => 20-DataInputStream}/DatInpStre.java (100%)
+ rename {DataInputStream => 20-DataInputStream}/DatInpStre2.java (100%)
+ rename {BufferedReader => 21-BufferedReader}/BuffrReadr.java (100%)
+ rename {BufferedReader => 21-BufferedReader}/bf2.java (100%)
+ rename {Scanner => 22-Scanner}/ElseIfSwitch.java (79%)
+ rename {Scanner => 22-Scanner}/ScannerDemo.java (100%)
+ rename {Scanner => 22-Scanner}/ScannerDemo2.java (100%)
+ rename {Scanner => 22-Scanner}/scanner3.java (100%)
+ create mode 100644 23-ExplicitStatements/ContinueDemo.java
+ create mode 100644 23-ExplicitStatements/Test.java
+ create mode 100644 23-ExplicitStatements/breakdemo.java
+ create mode 100644 23-ExplicitStatements/breakdemo2.java
+ rename {ConcatDemo => 3-ConcatDemo}/ConcatDemo.jad (100%)
+ rename {ConcatDemo => 3-ConcatDemo}/ConcatDemo.java (100%)
+ rename {ConcatDemo2 => 4-ConcatDemo2}/ConcatDemo2.jad (100%)
+ rename {ConcatDemo2 => 4-ConcatDemo2}/ConcatDemo2.java (100%)
+ rename {MultipleClasses => 5-MultipleClasses}/MultipleClasses.java (100%)
+ rename {Program&readibility => 6-Program&readibility}/Om1.java (100%)
+ rename {SingleClassMoreMains => 7-SingleClassMoreMains}/ClassMulMainMethods.java (100%)
+ rename {FormattingMethods => 8-FormattingMethods}/FormatMethod.java (100%)
+ rename {JavaDocExample => 9-JavaDocExample}/Comments.java (100%)
+ rename {JavaDocExample => 9-JavaDocExample}/Documentation/Comments.html (100%)
+ rename {JavaDocExample => 9-JavaDocExample}/Documentation/One.html (100%)
+ rename {JavaDocExample => 9-JavaDocExample}/Documentation/UtilClass.html (100%)
+ rename {JavaDocExample => 9-JavaDocExample}/Documentation/allclasses-frame.html (100%)
+ rename {JavaDocExample => 9-JavaDocExample}/Documentation/allclasses-noframe.html (100%)
+ rename {JavaDocExample => 9-JavaDocExample}/Documentation/constant-values.html (100%)
+ rename {JavaDocExample => 9-JavaDocExample}/Documentation/deprecated-list.html (100%)
+ rename {JavaDocExample => 9-JavaDocExample}/Documentation/help-doc.html (100%)
+ rename {JavaDocExample => 9-JavaDocExample}/Documentation/index-all.html (100%)
+ rename {JavaDocExample => 9-JavaDocExample}/Documentation/index.html (100%)
+ rename {JavaDocExample => 9-JavaDocExample}/Documentation/overview-tree.html (100%)
+ rename {JavaDocExample => 9-JavaDocExample}/Documentation/package-frame.html (100%)
+ rename {JavaDocExample => 9-JavaDocExample}/Documentation/package-list (100%)
+ rename {JavaDocExample => 9-JavaDocExample}/Documentation/package-summary.html (100%)
+ rename {JavaDocExample => 9-JavaDocExample}/Documentation/package-tree.html (100%)
+ rename {JavaDocExample => 9-JavaDocExample}/Documentation/script.js (100%)
+ rename {JavaDocExample => 9-JavaDocExample}/Documentation/stylesheet.css (100%)
+ create mode 100644 LocalNonLocalNotes.pdf
+ [
+master
+ ↑1
+]
+>
+~\Desktop\NDSU Summer 2017\Practice\JavaConceptsthruCodegit stop-transcript
+git: 'stop-transcript' is not a git command. See 'git --help'.
+ [
+master
+ ↑1
+]
+>
+~\Desktop\NDSU Summer 2017\Practice\JavaConceptsthruCodegit stop-transcript
+git: 'stop-transcript' is not a git command. See 'git --help'.
+ [
+master
+ ↑1
+]
+>
+ [
+master
+ ↑1
+]
+>
+~\Desktop\NDSU Summer 2017\Practice\JavaConceptsthruCodestop-transcript
+**********************
+Windows PowerShell transcript end
+End time: 20170912222623
+**********************
