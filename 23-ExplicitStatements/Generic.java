@@ -11,13 +11,13 @@ public class Generic <x,y>{
     public static <T> T[] reverseGenericArray( T[] source )
     {
         T[] target = ( T[] )  new Object[ source.length ];
-        
+
         for ( int i = 0; i < source.length; i++ )
             target[ source.length - 1 - i ] = source[i];
-        
+
         return target;
     }
-    
+
     public static <T> String printGenericArray( T[] source )
     {
         String outString = "Array = [ ";
@@ -27,10 +27,7 @@ public class Generic <x,y>{
             outString += " ";
         }
         outString += "]";
-        return outString;        
+        return outString;
     }
-         
+
 }
-
-
-
